@@ -1,3 +1,72 @@
+*{
+    margin: 0 auto
+}
+
+  body{
+   background:green;
+}
+
+    
+
+* {
+    margin: auto;
+    padding: auto;
+}
+body{
+   background:#69732B;
+}
+
+
+.c1
+{ 
+    color:black;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 200px;
+    width:10%;
+    height: 80px;
+
+}
+.c2
+{
+    color:black;
+    border-radius: 10px;
+    position: relative;
+     margin-top: 200px;
+    width:10%;
+    height: 80px;
+   
+}
+.c3
+{
+    color:black;
+    border-radius: 10px;
+    position: relative;
+     margin-top: 200px;
+    width:10%;
+    height: 80px;
+    
+}
+.c4
+{
+    color:black;
+    border-radius: 10px;
+    position: relative;
+     margin-top: 200px;
+    width:10%;
+    height: 80px;
+ 
+}
+.c5
+{
+    color:black;
+    border-radius: 10px;
+    position: relative;
+     margin-top: 200px;
+    width:10%;
+    height: 80px;
+   
+}
 
 
 @font-face {
